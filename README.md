@@ -4,7 +4,7 @@ Script to facilitate solving daily crosswords.
 # Installation:
   * Install "dialog" package with whatever package manager you use. 
   * Run `pip3 install --user cursewords` to grab the cursewords solver. (https://github.com/thisisparker/cursewords)
-  * Clone down the repo.
+  * Pull down this script.
   * Execute `chmod +x crossword.sh` if permissions are wrong. 
   * Run the script!
 
