@@ -12,3 +12,4 @@ Script to facilitate solving daily crosswords.
   * All .puz files are saved to `$HOME/crosswords/` by default. You can change this via `$PuzzDir` on line 29.
   * If you save state and quit a puzzle, you will have to directly re-open it with cursewords. Re-running the script
     will over-write the existing copy and wipe any state. (will be fixed in subsequent version)
+  * Remember you can always do `mv crossword.sh /usr/bin/crossword`. Now it can be invoked via just typing `crossword` in bash.
