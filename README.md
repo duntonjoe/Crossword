@@ -12,3 +12,4 @@ Script to facilitate solving daily crosswords.
   * All .puz files are saved to `$HOME/crosswords/` by default. You can change this via `$PuzzDir` on line 29.
   * Script is able to handle and properly load save states.
   * Remember you can always do `mv crossword.sh /usr/bin/crossword`. Now it can be invoked via just typing `crossword` in bash.
+  ** NOTE: Placing a script in bin is NOT FHS COMPLIANT! It's fine as a hacky thing here, but please for the love of god don't ever do that on a production system...
